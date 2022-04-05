@@ -5,27 +5,45 @@
 //         if (condizione1){    //verifica tutto quanto nelle parentesi se true esegue il codice nelle parentesi graffe
 //              console.log('la condizione è vera');         
          
-//         }else if (condizone2){
-//             console.log('la condizone è false e la condione2 è ture');
+//         }else if (condizione2){
+//             console.log('la condizione1 è false e la condione2 è true');
 //         }else{
 //             console.log('entrambe le condizoni sono false ')
 //         }
+
+
+
+
+// var a = 7 
+//         var condizione1 = false;
+//         var condizione2 = false;
+//         if (condizione1){
+//             console.log('la condizione1 è vera ');
+
+//         }else if (condizione2){
+//             console.log('la condizione2 è vera');
+//         }else{
+//             console.log('entrambe le condizioni non sono vere')
+//         }
       
 
-// if (-45){
+// if (-45){  //qualsiasi valore anche negativo è diverso da null e significa true. 
 //     console.log('condizione vera');
 // }else{
 //     console.log('condizione falsa');
 // }
 
 
-// var number = 5;
+// var number = 0;
 
 // if (number== 0){
 //     console.log (number == 0);
-// } else if (number == 1{
-//     console.log ()
+// } else if (number == 1){
+//     console.log (number == 1);
 // }
+
+
+
 
 // var number = 4;
 // switch(number){
@@ -49,14 +67,19 @@
 //         console.log('number è nessuno dei precedenti');//default è quando nessuno dei casi viene soddisfatto
 // }   //default è facoltativo se lo togliamo si limita a eseguire il codice
 
-//OPERATORE TERNARIO 
 
-// if (a > b)
 
-// var c = a > b ? 2 : 4;  // operatore ternario se viene soddisfatta la condizione 
-// // il valore di c prende il 2 altrimenti 4;
 
-//ITERAZIONI una interazione è una operazione che viene ripetura più volte 
+
+
+OPERATORE TERNARIO 
+
+if (a > b)
+
+var c = a > b ? 2 : 4;  // operatore ternario se viene soddisfatta la condizione 
+// il valore di c prende il 2 altrimenti 4;
+
+ITERAZIONI una interazione è una operazione che viene ripetura più volte 
 
 
 
