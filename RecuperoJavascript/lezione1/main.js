@@ -1,19 +1,3 @@
-// var a = 7;
-//         var condizione1 = false;
-//         var condizione2 = true;
-
-//         if (condizione1){    //verifica tutto quanto nelle parentesi se true esegue il codice nelle parentesi graffe
-//              console.log('la condizione è vera');         
-         
-//         }else if (condizione2){
-//             console.log('la condizione1 è false e la condione2 è true');
-//         }else{
-//             console.log('entrambe le condizoni sono false ')
-//         }
-
-
-
-
 // var a = 7 
 //         var condizione1 = false;
 //         var condizione2 = false;
@@ -27,7 +11,9 @@
 //         }
       
 
-// if (-45){  //qualsiasi valore anche negativo è diverso da null e significa true. 
+// if (-45){  //qualsiasi valore anche negativo, diverso da null e da zero sarà 
+//            //considerato false. Allo stesso modo qualsiasi string è true, solo gli apici vuoti 
+//            //saranno false. Anche il valore null, senza apici, viene considerto false
 //     console.log('condizione vera');
 // }else{
 //     console.log('condizione falsa');
@@ -72,14 +58,14 @@
 
 
 
-OPERATORE TERNARIO 
+// OPERATORE TERNARIO 
 
-if (a > b)
+// if (a > b)
 
-var c = a > b ? 2 : 4;  // operatore ternario se viene soddisfatta la condizione 
-// il valore di c prende il 2 altrimenti 4;
+// var c = a > b ? 2 : 4;  // operatore ternario se viene soddisfatta la condizione 
+// // il valore di c prende il 2 altrimenti 4;
 
-ITERAZIONI una interazione è una operazione che viene ripetura più volte 
+// ITERAZIONI una interazione è una operazione che viene ripetura più volte 
 
 
 
